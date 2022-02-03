@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Muhammad Zia, a ** Full Stack Developer ** and **Top Rated Plus** [**Freelancer**](https://www.upwork.com/freelancers/~0140560d4ece353ec3) on _Upwork_. I have a **Software Engineering Degree** from a well-reputed university.
+🎓 I am Muhammad Zia, a **Full Stack Developer** and **Top Rated Plus** [**Freelancer**](https://www.upwork.com/freelancers/~0140560d4ece353ec3) on _Upwork_. I have a **Software Engineering Degree** from a well-reputed university.
 
 💻 Lookin’ for a React / Vue / Angular / React Native / Express / Node / Graphql dev? I’m your guy! Do you have an idea you want to get off the ground? I can help you with the initial planning phases right through to completing development on your idea. Or perhaps you have an established product and need an extra pair of hands to help out? I've taken over and integrated myself into so many large codebases over the years - it's become second nature to me! I've won many hats in my career as a developer. As a result, I have a peculiar ability to manage multi-disciplinary projects and solve complex problems. I speak fluent geek, developer, trainer, salesperson, and difficult client. Till date, I have completed projects, most of which required custom designs. My aim has always been to develop projects that look beautiful and professional, are highly functional, load quickly, and are user-friendly. I love making new professional acquaintances. Reach out if you want to talk about technology, business or football.
 
