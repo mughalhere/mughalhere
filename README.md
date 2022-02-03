@@ -9,10 +9,10 @@
 ## 🏅 Achievements
 
 -   🏆 **Top Rated Plus** at _Upwork_
--   🚁 **3D MoonRover Model Contributer** for contributing to _a library ([Florida Space Institute](https://github.com/FlaSpaceInst)) used by NASA
+-   🚁 **3D MoonRover Model Contributer** for contributing to _a_ library ([Florida Space Institute](https://github.com/FlaSpaceInst)) used by NASA
 -   🥇 **Winner of Coding Competition** at _University Of Gujrat_ (2016)
 -   🥈 **1st Runner up at Coding Competition** at _PUCIT_ (2019)
--   🥉 **Created a microservice to measure the personality of a person based on ** ([Big-Five-Web](https://github.com/rubynor/bigfive-web))
+-   🥉 **Created a microservice to measure the personality of a person based on** ([Big-Five-Web](https://github.com/rubynor/bigfive-web))
 
 ## 🛠️ Skills
 
